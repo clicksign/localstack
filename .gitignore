@@ -1,3 +1,4 @@
+!volume/tmp
 *.pyc
 *.pyo
 *.class
@@ -59,9 +60,7 @@ api_states
 
 /integration/lambdas/golang/handler.zip
 /tests/integration/lambdas/golang/handler.zip
-tmp/
-
-volume/
+./tmp/
 
 # ANTLR4 ID plugin.
 gen/
